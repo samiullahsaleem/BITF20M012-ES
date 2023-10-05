@@ -1,0 +1,32 @@
+Total Marks: 10
+Absolute weightage: 1/25
+
+Build Success: 1 
+Clean Code: 1
+	Proper Naming Convention: 0.5
+	Proper Indentation: 0.5
+Classes are Designed as per requirements: 2
+CalculatePrice - Business Critical Function: 1
+assignDriver - Service Critical Function: 1
+Input Validations for Location: 1 
+User-interface is managed properly: 1
+Any of Update function is done correctly: 1
+Followed all submission guidelines: 1
+
+# Your Score: 8/10
+
+Build Success: 1 
+Clean Code: 1
+Calculate Price: 1
+Input Validation: 1
+User-Interface can be managed more effectively: 0.5
+Submission Guidelines: 1
+Class Design: 2
+UpdateDriver: Error when I skip Phone#, It should not ask for entering me a number: 0.5
+I can also add driver with same IDs. If ID:100 exists it also accepts same ID for a new Driver - assignDriver (Fault): 0
+
+I hope this evaluation will help you to improve your code and encourage you to keep writing better code!
+
+BEST REGARDS,
+MUHAMMAD ABDULLAH
+
