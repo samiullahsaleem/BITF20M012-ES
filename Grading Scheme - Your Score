@@ -28,9 +28,24 @@ Dynamic variables: 1.5
 	b: 0.75
 ---------------------------------------------------------------------------------
 
-Your Score:
+Your Score: 9.9/10
 
-String Interpolation: 0.5
+String interpolation: 0.5
+Sum of Array Elements: 1
+Finding Maximum Value: 1
+Array reversal: 0.5
+Boxing - Integer: 0.5
+Boxing - Double: 0.4 (Not followed the instructed name)
+String Concatenation: 0.5
+Substring fetching: 0.5
+Array Declaration and Initialization: 0.5
+Array Iteration - for: 0.5
+Array Iteration - foreach: 0.5
+Unboxing - a: 1
+Unboxing - b: 1
+Dynamic Variables - a: 0.75
+Dynamic Variables - b: 0.75
+
 
 
 
